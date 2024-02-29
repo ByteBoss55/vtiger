@@ -1,0 +1,28 @@
+{
+	"verifyApplicationTitle_TC01": {
+		"ExpectedTitle": ""
+	},
+	"verifyApplicationlogo_TC02": {
+		
+	},
+	"verifytextKeyModules_TC03": {
+		
+	},
+	"verifyInvalidLogin_TC04": {
+		"Userid": "Narendra",
+		"Password": "Modi"
+	},
+	"verifyInvalidLogin_TC05": {
+		"Userid": "admin",
+		"Passord": "admin"
+	},
+	"valid_login_TC01": {
+	"Userid":"admin",
+	"Password":"admin"
+	},
+	"verify_login_TC06": {
+	"Userid":"admin",
+	"Password":"admin",
+	"Theme":"2"
+	}
+}
